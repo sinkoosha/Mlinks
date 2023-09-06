@@ -26,7 +26,6 @@ export default function Hero() {
                   clip-rule="evenodd"
                 ></path>
               </svg>
-              از اینجا شروع کنید
             </a>
             <a
               href="#"
